@@ -1,2 +1,2 @@
 # freehome
-Un projet pour les trouver des appartements à louer à Madagascar
+Un projet pour trouver des appartements à louer à Madagascar
